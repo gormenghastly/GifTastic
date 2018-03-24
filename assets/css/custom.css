@@ -1,0 +1,36 @@
+body {
+  background: rgb(0, 0, 59);
+}
+
+#title-card {
+  background: greenyellow;
+  font-weight: bold;
+}
+
+#input-card {
+  background: magenta;
+  color: white;
+}
+#add-actor {
+  width: 300px;
+  margin-left: 405px;
+  
+}
+#submit {
+  background: greenyellow;
+  font-weight: bold;
+  margin: 0.25em;
+}
+.btnActor {
+  background: magenta;
+  color: white;
+  margin: 0.25em;
+  width: 10em;
+}
+#gif-card {
+  background: greenyellow;
+  border: greenyellow solid 3px;
+}
+.card-footer {
+  padding: 0.15em;
+}
