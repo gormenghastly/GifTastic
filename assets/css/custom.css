@@ -3,7 +3,7 @@ body {
 }
 
 #title-card {
-  background: greenyellow;
+  background: rgb(99, 167, 231);
   font-weight: bold;
 }
 
@@ -17,7 +17,7 @@ body {
   
 }
 #submit {
-  background: greenyellow;
+  background: rgb(99, 167, 231);
   font-weight: bold;
   margin: 0.25em;
 }
@@ -28,9 +28,12 @@ body {
   width: 10em;
 }
 #gif-card {
-  background: greenyellow;
-  border: greenyellow solid 3px;
+  background: rgb(99, 167, 231);
+  border: rgb(99, 167, 231) solid 3px;
 }
 .card-footer {
   padding: 0.15em;
+}
+#image {
+  width: 900px;
 }
